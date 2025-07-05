@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu Alaikum 🙏 I'm Rabbi Hossen</h1>
+<h1 align="center">Hey there! 👋 I'm Rakibul Islam</h1>
 <h3 align="center">🚀 Flutter Developer | 💡 Clean Architecture Enthusiast | 🌐 Cross-Platform Specialist</h3>
 
 ---
@@ -55,8 +55,8 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---

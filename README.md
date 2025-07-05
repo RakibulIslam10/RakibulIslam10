@@ -1,8 +1,3 @@
-<h1 align="center">Hey there! 👋 I'm Rakibul Islam</h1>
-<h3 align="center">🚀 Flutter Developer | 💡 Clean Architecture Enthusiast | 🌐 Cross-Platform Specialist</h3>
-
----
-
 ## 🧠 About Me
 
 Experienced **Flutter Developer** with over 3 years of hands-on experience in building scalable, cross-platform mobile applications for **iOS** and **Android**.  

@@ -29,16 +29,12 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
 
 ## 📌 Quick Links
 
-<p align="center">
-  <a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"/></a>
-  <a href="https://wa.me/yourphonenumber" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
+<a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"/></a>
+<a href="https://wa.me/yourphonenumber" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
-
-
 
 ## 🚀 PROJECTS
 
@@ -49,11 +45,9 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=tokyonight" height="180"/>
 
 ---
 

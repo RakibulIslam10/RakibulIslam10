@@ -26,6 +26,7 @@ Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performan
 ---
 
 ## 🧰 Tools & Software
+Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, Trello, Slack, ClickUp, Hubstaff
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" alt="GitHub (White)"/>

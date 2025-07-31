@@ -20,7 +20,7 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
 - **Storage & Database:** Firebase (Firestore & Realtime DB), Supabase, SQLite, GetStorage, SharedPreferences  
 - **Features & Integrations:** Google Maps, Push Notifications, Deep Links, Social Login, REST APIs, Pusher Beams
 
-### 🧪 Tools & Platforms (Icons)
+### 🧪 Tools & Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" alt="GitHub (White)"/>
@@ -32,7 +32,7 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
   <img src="https://img.icons8.com/color/48/000000/trello.png" width="40" alt="Trello"/>
   <img src="https://img.icons8.com/color/48/000000/slack-new.png" width="40" alt="Slack"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-clickup-is-a-cloud-based-collaboration-and-project-management-tool-logo-color-tal-revivo.png" width="40" alt="ClickUp"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-tracking-team-management-flaticons-lineal-color-flat-icons.png" width="40" alt="Hubstaff"/>
+  <img src="https://img.icons8.com/fluency/48/clock.png" width="40" alt="Hubstaff (Alt)"/>
 </p>
 
 ---

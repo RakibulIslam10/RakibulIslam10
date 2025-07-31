@@ -23,8 +23,8 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
 ### 🧪 Tools & Platforms (Icons)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" width="40" alt="Postman"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" alt="GitHub (White)"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="40" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode"/>
@@ -32,7 +32,7 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
   <img src="https://img.icons8.com/color/48/000000/trello.png" width="40" alt="Trello"/>
   <img src="https://img.icons8.com/color/48/000000/slack-new.png" width="40" alt="Slack"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-clickup-is-a-cloud-based-collaboration-and-project-management-tool-logo-color-tal-revivo.png" width="40" alt="ClickUp"/>
-  <img src="https://img.icons8.com/color/48/000000/time-tracking.png" width="40" alt="Hubstaff"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-tracking-team-management-flaticons-lineal-color-flat-icons.png" width="40" alt="Hubstaff"/>
 </p>
 
 ---

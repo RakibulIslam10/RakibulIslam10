@@ -1,13 +1,28 @@
 ## 🧠 About Me
 
-Hey There! 
-Iam Rakibul Islam Flutter Software developer
+<h1 align="center">Hey there! 👋 I’m Rakibul Islam</h1>
+<h3 align="center">🚀 Flutter Software Developer | Mobile App Engineer</h3>
 
-Experienced **Flutter Developer** with over 1+ years of hands-on experience in building scalable, cross-platform mobile applications for **iOS** and **Android**.  
-I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, performant, and pixel-perfect user experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C1FF&center=true&vCenter=true&width=435&lines=Flutter+%F0%9F%93%B1+%7C+GetX+%7C+Dart+Developer;Crafting+Smooth+and+Pixel+Perfect+UI" alt="Typing SVG" />
+</p>
 
-- ✅ Focused on Clean Code & Performance
-- ✅ Passionate about automation, and continuous learning
+---
+
+🎯 **Experienced Flutter Developer** with over **1+ years** of hands-on experience in building scalable, cross-platform mobile applications for both **iOS** and **Android**.
+
+💙 I specialize in **Flutter**, **Dart**, and **GetX**, and enjoy crafting:
+
+- 🔹 Smooth & Pixel-Perfect UIs  
+- 🔹 Performant Cross-platform Apps  
+- 🔹 Maintainable Clean Code Architecture  
+- 🔹 Real-Time Features & API Integrations  
+
+---
+
+🌱 **Currently Learning:** Native Android Integrations, Firebase Advanced Features  
+📈 **Goals:** Delivering high-quality apps and solving real-world problems  
+💬 **Ask me about:** Flutter | GetX | Firebase | App Automation
 
 ---
 

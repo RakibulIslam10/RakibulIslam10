@@ -1,6 +1,6 @@
 ## 🧠 About Me
 
-Experienced **Flutter Developer** with over 3 years of hands-on experience in building scalable, cross-platform mobile applications for **iOS** and **Android**.  
+Experienced **Flutter Developer** with over 1+ years of hands-on experience in building scalable, cross-platform mobile applications for **iOS** and **Android**.  
 I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, performant, and pixel-perfect user experiences.
 
 - ✅ End-to-End App Development (Idea → Play Store / App Store)
@@ -20,10 +20,20 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
 - **Storage & Database:** Firebase (Firestore & Realtime DB), Supabase, SQLite, GetStorage, SharedPreferences  
 - **Features & Integrations:** Google Maps, Push Notifications, Deep Links, Social Login, REST APIs, Pusher Beams
 
-### 🧪 Tools & Platforms
-- **Dev Tools:** Flutter DevTools, Firebase Console, GitHub Actions, Postman  
-- **IDE & Editors:** Android Studio, VS Code, Xcode  
-- **Design & Productivity:** Figma, Trello, ClickUp, Slack, Hubstaff
+### 🧪 Tools & Platforms (Icons)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" width="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png" width="40" alt="Trello"/>
+  <img src="https://img.icons8.com/color/48/000000/slack-new.png" width="40" alt="Slack"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-clickup-is-a-cloud-based-collaboration-and-project-management-tool-logo-color-tal-revivo.png" width="40" alt="ClickUp"/>
+  <img src="https://img.icons8.com/color/48/000000/time-tracking.png" width="40" alt="Hubstaff"/>
+</p>
 
 ---
 
@@ -43,14 +53,12 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
 
 ---
 
-
 ## 📈 GitHub Stats
 
-<div style="display: flex; align-items: center; gap: 40px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=tokyonight" height="180" />
 </div>
-
 
 ---
 

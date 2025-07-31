@@ -1,10 +1,9 @@
-# Hey there! 👋 I’m Rakibul Islam
-
-### 🚀 Flutter Software Developer | Mobile App Engineer
+<h1 align="left">Hey there! 👋 I’m Rakibul Islam</h1>
+<h3 align="left">🚀 Flutter Software Developer | Mobile App Engineer</h3>
 
 ---
 
-## 🧠 About Me
+### 🎯 About Me
 
 Experienced Flutter Developer with **1+ years** of hands-on experience building scalable, cross-platform mobile apps for **iOS** and **Android**.  
 Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performant, and pixel-perfect user experiences.
@@ -13,33 +12,20 @@ Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performan
 
 ## 🛠️ Skills & Technologies
 
-### 🔹 Flutter Development
+### 💻 Languages & Frameworks
+- **Languages:** Dart, Kotlin, JavaScript, Python, JSON, Shell scripting  
+- **Frameworks:** Flutter, Django Rest Framework
 
-- **Languages:** Dart  
-- **Frameworks:** Flutter, GetX, Provider, Riverpod  
+### 📱 Flutter Development
 - **State Management:** GetX, Provider, Riverpod  
-- **Storage & Database:** Firebase (Firestore & Realtime DB), GetStorage, SharedPreferences  
-- **Features & Integrations:** Google Maps, Push Notifications, WebSocket, Social Login, REST APIs  
+- **Local & Remote Storage:** SQLite, GetStorage, SharedPreferences, Firebase Firestore, Firebase Realtime Database, Supabase  
+- **Integrations:** Google Maps API, Social Login, Push Notifications, Pusher Beams, Deep Link  
+- **Tools:** Flutter DevTools, Android & iOS Deployment, Firebase REST APIs  
 - **Focus Areas:** Clean Architecture, Real-time Data, Performance Optimization, UI/UX Perfection
 
 ---
 
-### 🔹 Other Languages & Frameworks
-
-- Dart, Kotlin, JavaScript, Python, JSON, Bash
-
----
-
-### 🔹 Tools & Software
-
-- Android Studio, VS Code, Xcode, Git, Postman, Figma, Trello, ClickUp, Slack, Hubstaff
-
----
-
-### 💬 Ask me about Flutter, GetX, Firebase, App Automation
-
-
-### 🧪 Tools & Platforms (Icons)
+## 🧰 Tools & Software
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" alt="GitHub (White)"/>
@@ -80,4 +66,15 @@ Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performan
 
 ---
 
-> 💬 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+
+## 📈 Current Focus
+- Learning Native Android Integrations  
+- Building real-time apps using Firebase, Supabase  
+- Exploring performance tuning and automation in Flutter
+
+---
+
+## 📬 Connect With Me
+- 📧 Email: [rakib10.devs@gmail.com](mailto:rakib10.devs@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rakib10](https://linkedin.com/in/rakib10)
+- 🌐 Portfolio: *Coming Soon*

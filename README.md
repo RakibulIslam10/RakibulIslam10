@@ -1,31 +1,42 @@
 ## 🧠 About Me
-<h1 align="center">Hey there! 👋 I’m Rakibul Islam</h1>
-<h3 align="center">🚀 Flutter Developer | Mobile App Engineer</h3>
+# Hey there! 👋 I’m Rakibul Islam
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C1FF&center=true&vCenter=true&width=380&lines=Flutter+%F0%9F%93%B1+|+GetX+|+Dart+Developer;Crafting+Pixel-Perfect+Apps" alt="Typing SVG" />
-</p>
+### 🚀 Flutter Software Developer | Mobile App Engineer
 
 ---
 
-<p align="center">
-  🎯 Experienced Flutter Developer with 1+ years building scalable cross-platform apps for iOS & Android.<br/>
-  💙 Specialized in Flutter, Dart & GetX with clean architecture & real-time features.<br/>
-  🌱 Currently learning Native Android Integrations & Firebase Advanced Features.<br/>
-  💬 Ask me about Flutter, GetX, Firebase, App Automation.
-</p>
+### 🎯 About Me
+
+Experienced Flutter Developer with **1+ years** of hands-on experience building scalable, cross-platform mobile apps for **iOS** and **Android**.  
+Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performant, and pixel-perfect user experiences.
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🛠️ Flutter Development Expertise
 
-<p align="center">
-  <b>Languages:</b> Dart, Kotlin, JavaScript, Python, JSON, Bash<br/>
-  <b>Frameworks:</b> Flutter, GetX, Riverpod, Provider<br/>
-  <b>State Management:</b> GetX, Provider, Riverpod<br/>
-  <b>Storage & DB:</b> Firebase (Firestore & Realtime), GetStorage, SharedPreferences<br/>
-  <b>Features & APIs:</b> Google Maps, Push Notifications, WebSocket, Social Login, REST APIs
-</p>
+- **State Management:** GetX, Provider, Riverpod  
+- **Storage & Database:** Firebase (Firestore & Realtime DB), GetStorage, SharedPreferences  
+- **Features & Integrations:** Google Maps, Push Notifications, WebSocket, Social Login, REST APIs  
+- **Focus Areas:** Clean Architecture, Real-time Data, Performance Optimization, UI/UX Perfection
+
+---
+
+### 💻 Other Skills & Technologies
+
+- **Languages:** Dart, Kotlin, JavaScript, Python, JSON, Bash  
+- **Frameworks:** Flutter, GetX, Riverpod, Provider  
+- **Tools:** Android Studio, VS Code, Xcode, Git, Postman
+
+---
+
+### 🌱 Currently Learning
+
+Native Android Integrations, Firebase Advanced Features
+
+---
+
+### 💬 Ask me about Flutter, GetX, Firebase, App Automation
+
 
 ### 🧪 Tools & Platforms (Icons)
 <p align="left">

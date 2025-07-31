@@ -31,7 +31,7 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png" width="40" alt="Trello"/>
   <img src="https://img.icons8.com/color/48/000000/slack-new.png" width="40" alt="Slack"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/clickup.png" width="40" alt="ClickUp"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/ClickUp_Logo.png" width="40" alt="ClickUp"/>
   <img src="https://img.icons8.com/fluency/48/clock.png" width="40" alt="Hubstaff (Alt)"/>
 </p>
 

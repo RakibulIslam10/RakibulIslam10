@@ -1,41 +1,31 @@
 ## 🧠 About Me
-
 <h1 align="center">Hey there! 👋 I’m Rakibul Islam</h1>
-<h3 align="center">🚀 Flutter Software Developer | Mobile App Engineer</h3>
+<h3 align="center">🚀 Flutter Developer | Mobile App Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C1FF&center=true&vCenter=true&width=435&lines=Flutter+%F0%9F%93%B1+%7C+GetX+%7C+Dart+Developer;Crafting+Smooth+and+Pixel+Perfect+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C1FF&center=true&vCenter=true&width=380&lines=Flutter+%F0%9F%93%B1+|+GetX+|+Dart+Developer;Crafting+Pixel-Perfect+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
-🎯 **Experienced Flutter Developer** with over **1+ years** of hands-on experience in building scalable, cross-platform mobile applications for both **iOS** and **Android**.
-
-💙 I specialize in **Flutter**, **Dart**, and **GetX**, and enjoy crafting:
-
-- 🔹 Smooth & Pixel-Perfect UIs  
-- 🔹 Performant Cross-platform Apps  
-- 🔹 Maintainable Clean Code Architecture  
-- 🔹 Real-Time Features & API Integrations  
-
----
-
-🌱 **Currently Learning:** Native Android Integrations, Firebase Advanced Features  
-📈 **Goals:** Delivering high-quality apps and solving real-world problems  
-💬 **Ask me about:** Flutter | GetX | Firebase | App Automation
+<p align="center">
+  🎯 Experienced Flutter Developer with 1+ years building scalable cross-platform apps for iOS & Android.<br/>
+  💙 Specialized in Flutter, Dart & GetX with clean architecture & real-time features.<br/>
+  🌱 Currently learning Native Android Integrations & Firebase Advanced Features.<br/>
+  💬 Ask me about Flutter, GetX, Firebase, App Automation.
+</p>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Languages & Frameworks
-- **Languages:** Dart, Kotlin, JavaScript, Python, JSON, Bash
-- **Frameworks:** Flutter, GetX, Riverpod, Provider
-
-### 📱 Mobile App Development
-- **State Management:** GetX, Provider, Riverpod  
-- **Storage & Database:** Firebase (Firestore & Realtime DB), GetStorage, SharedPreferences  
-- **Features & Integrations:** Google Maps, Push Notifications, web_socket ,Social Login, REST APIs,
+<p align="center">
+  <b>Languages:</b> Dart, Kotlin, JavaScript, Python, JSON, Bash<br/>
+  <b>Frameworks:</b> Flutter, GetX, Riverpod, Provider<br/>
+  <b>State Management:</b> GetX, Provider, Riverpod<br/>
+  <b>Storage & DB:</b> Firebase (Firestore & Realtime), GetStorage, SharedPreferences<br/>
+  <b>Features & APIs:</b> Google Maps, Push Notifications, WebSocket, Social Login, REST APIs
+</p>
 
 ### 🧪 Tools & Platforms (Icons)
 <p align="left">

@@ -1,19 +1,22 @@
-## 🧠 About Me
 # Hey there! 👋 I’m Rakibul Islam
 
 ### 🚀 Flutter Software Developer | Mobile App Engineer
 
 ---
 
-### 🎯 About Me
+## 🧠 About Me
 
 Experienced Flutter Developer with **1+ years** of hands-on experience building scalable, cross-platform mobile apps for **iOS** and **Android**.  
 Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performant, and pixel-perfect user experiences.
 
 ---
 
-### 🛠️ Flutter Development Expertise
+## 🛠️ Skills & Technologies
 
+### 🔹 Flutter Development
+
+- **Languages:** Dart  
+- **Frameworks:** Flutter, GetX, Provider, Riverpod  
 - **State Management:** GetX, Provider, Riverpod  
 - **Storage & Database:** Firebase (Firestore & Realtime DB), GetStorage, SharedPreferences  
 - **Features & Integrations:** Google Maps, Push Notifications, WebSocket, Social Login, REST APIs  
@@ -21,17 +24,15 @@ Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performan
 
 ---
 
-### 💻 Other Skills & Technologies
+### 🔹 Other Languages & Frameworks
 
-- **Languages:** Dart, Kotlin, JavaScript, Python, JSON, Bash  
-- **Frameworks:** Flutter, GetX, Riverpod, Provider  
-- **Tools:** Android Studio, VS Code, Xcode, Git, Postman
+- Dart, Kotlin, JavaScript, Python, JSON, Bash
 
 ---
 
-### 🌱 Currently Learning
+### 🔹 Tools & Software
 
-Native Android Integrations, Firebase Advanced Features
+- Android Studio, VS Code, Xcode, Git, Postman, Figma, Trello, ClickUp, Slack, Hubstaff
 
 ---
 

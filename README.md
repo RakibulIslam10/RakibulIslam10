@@ -48,7 +48,7 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
 
 ## 🚀 PROJECTS
 
-[![Payload](https://s3.envato.com/files/560939522/Thumbnail.png)](https://codecanyon.net/item/payload-airtime-data-bundles-gift-cards-and-vtu-full-solution/56026497?s_rank=10)
+[![Payload](https://previews.customer.envatousercontent.com/files/560418621/Thumbnail.png)](https://codecanyon.net/item/payload-airtime-data-bundles-gift-cards-and-vtu-full-solution/56026497?s_rank=10)
 [![Carbo](https://previews.customer.envatousercontent.com/files/612441931/Thumbnail.png)](https://codecanyon.net/item/carbo-car-rental-booking-management-full-solution/57288398?s_rank=5)
 
 ---

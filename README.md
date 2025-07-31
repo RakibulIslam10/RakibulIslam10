@@ -1,11 +1,13 @@
 ## 🧠 About Me
 
+Hey There! 
+Iam Rakibul Islam Flutter Software developer
+
 Experienced **Flutter Developer** with over 1+ years of hands-on experience in building scalable, cross-platform mobile applications for **iOS** and **Android**.  
 I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, performant, and pixel-perfect user experiences.
 
-- ✅ End-to-End App Development (Idea → Play Store / App Store)
 - ✅ Focused on Clean Code & Performance
-- ✅ Passionate about automation, system architecture, and continuous learning
+- ✅ Passionate about automation, and continuous learning
 
 ---
 
@@ -17,8 +19,8 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
 
 ### 📱 Mobile App Development
 - **State Management:** GetX, Provider, Riverpod  
-- **Storage & Database:** Firebase (Firestore & Realtime DB), Supabase, SQLite, GetStorage, SharedPreferences  
-- **Features & Integrations:** Google Maps, Push Notifications, Deep Links, Social Login, REST APIs, Pusher Beams
+- **Storage & Database:** Firebase (Firestore & Realtime DB), GetStorage, SharedPreferences  
+- **Features & Integrations:** Google Maps, Push Notifications, web_socket ,Social Login, REST APIs,
 
 ### 🧪 Tools & Platforms (Icons)
 <p align="left">
@@ -31,7 +33,7 @@ I specialize in **Flutter**, **Dart**, and **GetX**, and love crafting smooth, p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png" width="40" alt="Trello"/>
   <img src="https://img.icons8.com/color/48/000000/slack-new.png" width="40" alt="Slack"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/ClickUp_Logo.png" width="40" alt="ClickUp"/>
+ <img src="https://img.icons8.com/?size=512&id=QxthAKaQ2vlG&format=png" width="40" alt="ClickUp"/>
   <img src="https://img.icons8.com/fluency/48/clock.png" width="40" alt="Hubstaff (Alt)"/>
 </p>
 

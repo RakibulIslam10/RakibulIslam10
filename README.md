@@ -5,8 +5,11 @@
 
 ## 🎯 About Me
 
-Experienced Flutter Developer with **1+ years** of hands-on experience building scalable, cross-platform mobile apps for **iOS** and **Android**.  
-Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performant, and pixel-perfect user experiences.
+Experienced Flutter Developer with 1+ years of hands-on experience building robust, scalable, and high-performance mobile applications for both 📱 iOS and 🤖 Android platforms.
+
+I specialize in Flutter, Dart, and GetX, with a strong focus on crafting pixel-perfect UIs, maintaining clean architecture, and optimizing app performance. From real-time data handling to complex API integrations, I bring a production-level mindset to every project I work on.
+
+Skilled in delivering apps that are not only visually stunning but also scalable and maintainable — backed by a passion for continuous learning and writing clean, efficient code.
 
 ---
 

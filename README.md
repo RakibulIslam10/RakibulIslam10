@@ -1,5 +1,5 @@
 <h1 align="left">Hey there! 👋 I’m Rakibul Islam</h1>
-<h3 align="left">🚀 Flutter Software Developer | Mobile App Engineer</h3>
+<h3 align="left">🚀 Flutter Software Developer | Mobile App Developer</h3>
 
 ---
 
@@ -14,12 +14,12 @@ Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performan
 
 ### 💻 Languages & Frameworks
 - **Languages:** Dart, Kotlin, JavaScript, Python, JSON, Shell scripting  
-- **Frameworks:** Flutter, Django Rest Framework
+- **Frameworks:** Flutter, 
 
 ### 📱 Flutter Development
 - **State Management:** GetX, Provider, Riverpod  
-- **Local & Remote Storage:** SQLite, GetStorage, SharedPreferences, Firebase Firestore, Firebase Realtime Database, Supabase  
-- **Integrations:** Google Maps API, Social Login, Push Notifications, Pusher Beams, Deep Link  
+- **Local & Remote Storage:** SQLite, GetStorage, SharedPreferences, Firebase Firestore, Firebase Realtime Database, 
+- **Integrations:** Google Maps API, Social Login, Push Notifications,  
 - **Tools:** Flutter DevTools, Android & iOS Deployment, Firebase REST APIs  
 - **Focus Areas:** Clean Architecture, Real-time Data, Performance Optimization, UI/UX Perfection
 
@@ -27,7 +27,7 @@ Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performan
 
 ## 🧰 Tools & Software
 
-Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, Trello, Slack, ClickUp, Hubstaff
+Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, Slack, ClickUp, Hubstaff
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
@@ -37,7 +37,6 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png" width="40" alt="Trello"/>
   <img src="https://img.icons8.com/color/48/000000/slack-new.png" width="40" alt="Slack"/>
   <img src="https://img.icons8.com/fluency/48/clock.png" width="40" alt="Hubstaff"/>
 </p>

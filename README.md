@@ -3,25 +3,26 @@
 
 ---
 
-### 🎯 About Me
+🎯 About Me
+Experienced Flutter Developer with 1+ years of hands-on experience building scalable, cross-platform mobile apps for 📱 iOS and 🤖 Android.
+Specialized in 🛠 Flutter, 🎯 Dart, and ⚡ GetX, delivering smooth, performant, and pixel-perfect user experiences.
 
-Experienced Flutter Developer with **1+ years** of hands-on experience building scalable, cross-platform mobile apps for **iOS** and **Android**.  
-Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performant, and pixel-perfect user experiences.
+🛠️ Skills & Technologies
+💻 Languages & Frameworks
+🧑‍💻 Languages: Dart, Kotlin, JavaScript, Python, JSON, Shell
 
----
+🧱 Frameworks: Flutter
 
-## 🛠️ Skills & Technologies
+📱 Flutter Development
+🧠 State Management: GetX, Provider, Riverpod
 
-### 💻 Languages & Frameworks
-- **Languages:** Dart, Kotlin, JavaScript, Python, JSON, Shell scripting  
-- **Frameworks:** Flutter, 
+💾 Storage: GetStorage, SharedPreferences, Firebase Firestore, Realtime DB
 
-### 📱 Flutter Development
-- **State Management:** GetX, Provider, Riverpod  
-- **Local & Remote Storage:** GetStorage, SharedPreferences, Firebase Firestore, Firebase Realtime Database, 
-- **Integrations:** Google Maps API, Social Login, Push Notifications, web socket channel
-- **Tools:** Flutter DevTools, Android & iOS Deployment, Firebase REST APIs  
-- **Focus Areas:** Clean Architecture, Real-time Data, Performance Optimization, UI/UX Perfection
+🔌 Integrations: Google Maps, Social Login, Push Notifications, WebSocket
+
+🧰 Tools: Flutter DevTools, Android/iOS Build, Firebase REST APIs
+
+🎯 Focus: Clean Architecture, Real-time Data, Performance, Pixel-perfect UI
 
 ---
 

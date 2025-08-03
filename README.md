@@ -1,5 +1,5 @@
-<h1 align="left">Hey there! 👋 I’m Rakibul Islam</h1>
-<h3 align="left">🚀 Flutter Software Developer | Mobile App Developer</h3>
+<h1 align="left">Hi there! 👋 I'm Rakibul Islam</h1>
+<h3 align="left">🚀 Passionate Flutter Developer crafting performant & beautiful mobile apps</h3>
 
 ---
 

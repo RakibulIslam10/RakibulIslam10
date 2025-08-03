@@ -19,7 +19,7 @@ Specialized in **Flutter**, **Dart**, and **GetX**, delivering smooth, performan
 ### 📱 Flutter Development
 - **State Management:** GetX, Provider, Riverpod  
 - **Local & Remote Storage:** GetStorage, SharedPreferences, Firebase Firestore, Firebase Realtime Database, 
-- **Integrations:** Google Maps API, Social Login, Push Notifications,  
+- **Integrations:** Google Maps API, Social Login, Push Notifications, web socket channel
 - **Tools:** Flutter DevTools, Android & iOS Deployment, Firebase REST APIs  
 - **Focus Areas:** Clean Architecture, Real-time Data, Performance Optimization, UI/UX Perfection
 

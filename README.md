@@ -16,7 +16,7 @@ Skilled in delivering apps that are not only visually stunning but also scalable
 ## 🛠️ Skills & Technologies
 
 ### 💻 Languages & Frameworks
-- 🧑‍💻 **Languages:** Dart, Kotlin, JavaScript, Python, JSON, Shell Scripting  
+- 🧑‍💻 **Languages:** Dart, JavaScript, Python,
 - 🧱 **Frameworks:** Flutter
 
 ### 📱 Flutter Development
@@ -64,6 +64,7 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 
 ## 📈 Current Focus
 - Learning Native Android Integrations  
+- Learning JavaScript, Python,Riverpod  Block nodjs
 - Building real-time apps using Firebase, Supabase  
 - Exploring performance tuning and automation in Flutter
 

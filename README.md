@@ -60,14 +60,6 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=tokyonight&count_private=true&token=YOUR_PERSONAL_TOKEN" height="180" />
 </div>
 
----
-
-## 🌐 Connect with Me
-- GitHub: [RakibulIslam10](https://github.com/RakibulIslam10)  
-- LinkedIn: [https://www.linkedin.com/in/rakibulislam10/](#)  
-- Portfolio: [Your Portfolio Link](#)  
-
----
 
 ## 📈 Current Focus
 - Learning Native Android Integrations  

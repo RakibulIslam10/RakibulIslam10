@@ -73,7 +73,7 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 
 - 📧 Email: [rakib10.devs@gmail.com](mailto:rakib10.devs@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rakib10](https://linkedin.com/in/rakib10)
-- 🌐 Portfolio: [https://rakibx10.webflow.io](https://rakibx10.webflow.io)
+- 🌐 Portfolio: [https://rakibx10.webflow.io](https://rakibx.webflow.io)
 
 <p align="left" style="display:flex; gap:8px; flex-wrap:wrap; align-items:center;">
   <a href="https://www.linkedin.com/in/rakibulislam10/" target="_blank">
@@ -82,7 +82,7 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
   <a href="https://wa.me/01987845068" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://rakibx10.webflow.io" target="_blank">
+  <a href="https://rakibx.webflow.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://medium.com/@rakib10.devs" target="_blank">

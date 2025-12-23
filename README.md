@@ -5,7 +5,7 @@
 
 ## 🎯 About Me
 
-Experienced Flutter Developer with 2+ years of hands-on experience building robust, scalable, and high-performance mobile applications for both 📱 iOS and 🤖 Android platforms.
+Experienced Flutter Developer with 3+ years of hands-on experience building robust, scalable, and high-performance mobile applications for both 📱 iOS and 🤖 Android platforms.
 
 I specialize in Flutter, Dart, and GetX, with a strong focus on crafting pixel-perfect UIs, maintaining clean architecture, and optimizing app performance. From real-time data handling to complex API integrations, I bring a production-level mindset to every project I work on.
 
@@ -21,8 +21,8 @@ Skilled in delivering apps that are not only visually stunning but also scalable
 
 ### 📱 Flutter Development
 - 🧠 **State Management:** GetX, Provider, Riverpod  
-- 💾 **Storage:** GetStorage, SharedPreferences, Firebase Firestore, Firebase Realtime Database  
-- 🔌 **Integrations:** Google Maps API, Social Login, Push Notifications, WebSocket Channel  
+- 💾 **Storage:** GetStorage, SharedPreferences, Firebase Firestore, Firebase Realtime Database
+- 🔌 **Integrations:** Google Maps API, Social Login, Push Notifications, WebSocket, socket.io  
 - 🛠 **Tools & Deployment:** Flutter DevTools, Android Studio, iOS & Android Deployment, Firebase REST APIs  
 - 🎯 **Focus Areas:** Clean Architecture, Real-Time Data Handling, Performance Optimization, UI/UX Excellence
 
@@ -56,8 +56,8 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 ## 📈 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=tokyonight&count_private=true&token=YOUR_PERSONAL_TOKEN" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=tokyonight&count_private=true&token=YOUR_PERSONAL_TOKEN" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=tokyonight" height="180"/>
 </div>
 
 

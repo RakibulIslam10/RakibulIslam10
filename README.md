@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello, I'm Rakibul Islam</h1>
+<h1 align="left">👋 Hello, I’m Rakibul Islam</h1>
 <h3 align="left">🚀 Passionate Flutter Developer crafting performant & beautiful mobile apps</h3>
 
 ---
@@ -16,7 +16,7 @@ Skilled in delivering apps that are not only visually stunning but also scalable
 ## 🛠️ Skills & Technologies
 
 ### 💻 Languages & Frameworks
-- 🧑‍💻 **Languages:** Dart, JavaScript, Python
+- 🧑‍💻 **Languages:** Dart, JavaScript, Python,
 - 🧱 **Frameworks:** Flutter
 
 ### 📱 Flutter Development
@@ -29,6 +29,8 @@ Skilled in delivering apps that are not only visually stunning but also scalable
 ---
 
 ## 🧰 Tools & Software
+
+Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, Slack, ClickUp, Hubstaff
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
@@ -46,46 +48,45 @@ Skilled in delivering apps that are not only visually stunning but also scalable
 
 ## 🚀 Projects
 
-<p align="left">
-  <a href="https://codecanyon.net/item/payload-airtime-data-bundles-gift-cards-and-vtu-full-solution/56026497?s_rank=10" target="_blank">
-    <img src="https://previews.customer.envatousercontent.com/files/560418621/Thumbnail.png" width="400" alt="Payload"/>
-  </a>
-  <a href="https://codecanyon.net/item/carbo-car-rental-booking-management-full-solution/57288398?s_rank=5" target="_blank">
-    <img src="https://previews.customer.envatousercontent.com/files/612441931/Thumbnail.png" width="400" alt="Carbo"/>
-  </a>
-</p>
+[![Payload](https://previews.customer.envatousercontent.com/files/560418621/Thumbnail.png)](https://codecanyon.net/item/payload-airtime-data-bundles-gift-cards-and-vtu-full-solution/56026497?s_rank=10)
+[![Carbo](https://previews.customer.envatousercontent.com/files/612441931/Thumbnail.png)](https://codecanyon.net/item/carbo-car-rental-booking-management-full-solution/57288398?s_rank=5)
 
 ---
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=radical)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=tokyonight" height="180"/>
+</div>
 
----
 
-## 🎯 Current Focus
-
-- Native Android integrations with Flutter
-- JavaScript • Python • Riverpod • Node.js
-- Real-time apps using Firebase & Supabase
-- Flutter performance tuning & automation
+## 📈 Current Focus
+- Learning Native Android Integrations  
+- Learning JavaScript, Python,Riverpod  Block nodjs
+- Building real-time apps using Firebase, Supabase  
+- Exploring performance tuning and automation in Flutter
 
 ---
 
 ## 📬 Connect With Me
 
-<p align="left">
+- 📧 Email: [rakib10.devs@gmail.com](mailto:rakib10.devs@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rakib10](https://linkedin.com/in/rakib10)
+- 🌐 Portfolio: [https://rakibx10.webflow.io](https://rakibx.webflow.io)
+
+<p align="left" style="display:flex; gap:8px; flex-wrap:wrap; align-items:center;">
   <a href="https://www.linkedin.com/in/rakibulislam10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/01987845068" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://rakibx.webflow.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://medium.com/@rakib10.devs" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
 

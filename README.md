@@ -55,15 +55,17 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact)
 
-## 📈 Current Focus
-- Learning Native Android Integrations  
-- Learning JavaScript, Python,Riverpod  Block nodjs
-- Building real-time apps using Firebase, Supabase  
-- Exploring performance tuning and automation in Flutter
+---
+
+## 🎯 Current Focus
+- Native Android integrations with Flutter  
+- JavaScript • Python • Riverpod • Node.js  
+- Real-time apps using Firebase & Supabase  
+- Flutter performance tuning & automation
 
 ---
 

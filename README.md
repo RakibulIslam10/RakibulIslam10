@@ -57,7 +57,7 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 
 <div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=tokyonight&count_private=true&token=YOUR_GITHUB_TOKEN"
     height="180"
   />
   <img
@@ -65,6 +65,7 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
     height="180"
   />
 </div>
+
 
 
 ## 📈 Current Focus

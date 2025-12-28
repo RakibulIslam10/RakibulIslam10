@@ -52,20 +52,20 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 [![Carbo](https://previews.customer.envatousercontent.com/files/612441931/Thumbnail.png)](https://codecanyon.net/item/carbo-car-rental-booking-management-full-solution/57288398?s_rank=5)
 
 ---
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakibulIslam10&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 📊 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
+---
+
+## 🎯 Current Focus
+
+- Native Android integrations with Flutter
+- JavaScript • Python • Riverpod • Node.js
+- Real-time apps using Firebase & Supabase
+- Flutter performance tuning & automation
 ---
 
 ## 🎯 Current Focus

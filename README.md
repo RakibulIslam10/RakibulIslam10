@@ -61,9 +61,10 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 ---
 
 ## 🎯 Current Focus
-- Native Android integrations with Flutter  
-- JavaScript • Python • Riverpod • Node.js  
-- Real-time apps using Firebase & Supabase  
+
+- Native Android integrations with Flutter
+- JavaScript • Python • Riverpod • Node.js
+- Real-time apps using Firebase & Supabase
 - Flutter performance tuning & automation
 ---
 

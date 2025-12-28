@@ -54,13 +54,17 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 ---
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakibulIslam10&theme=radical" alt="GitHub Streak" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RakibulIslam10&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakibulIslam10&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
 ---
 
@@ -70,7 +74,6 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 - JavaScript • Python • Riverpod • Node.js
 - Real-time apps using Firebase & Supabase
 - Flutter performance tuning & automation
----
 
 ## 📬 Connect With Me
 

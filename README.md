@@ -50,13 +50,8 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 
 [![Payload](https://previews.customer.envatousercontent.com/files/560418621/Thumbnail.png)](https://codecanyon.net/item/payload-airtime-data-bundles-gift-cards-and-vtu-full-solution/56026497?s_rank=10)
 [![Carbo](https://previews.customer.envatousercontent.com/files/612441931/Thumbnail.png)](https://codecanyon.net/item/carbo-car-rental-booking-management-full-solution/57288398?s_rank=5)
-### 📱 Grambix
 
-A modern mobile application built with Flutter focusing on performance, clean UI and smooth user experience.
-
-🔗 Google Play:  
-https://play.google.com/store/apps/details?id=com.olav.grambix
-
+[![Grambix](https://play-lh.googleusercontent.com/FEw4AK9n5PoLlOGhFWrviJHuBt6yKv_HwTfMOj9QwvMlCYvz_Tc-9nqgI8EhRcq7764nrN9_noBDlw4gJeAdbw=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.olav.grambix)
 ---
 
 ## 📈 Current Focus

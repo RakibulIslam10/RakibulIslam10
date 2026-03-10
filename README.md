@@ -53,13 +53,6 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 
 ---
 
-## 📊 Most Used Languages
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam10&layout=compact&theme=tokyonight" height="180"/>
-</div>
-
-
 ## 📈 Current Focus
 - Learning Native Android Integrations  
 - Learning JavaScript, Python,Riverpod  Block nodjs

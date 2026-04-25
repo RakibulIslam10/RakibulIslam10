@@ -48,18 +48,25 @@ Git, GitHub Actions, Postman, Android Studio, Visual Studio Code, Xcode, Figma, 
 
 ## 🚀 Projects
 
-[![Payload](https://previews.customer.envatousercontent.com/files/560418621/Thumbnail.png)](https://codecanyon.net/item/payload-airtime-data-bundles-gift-cards-and-vtu-full-solution/56026497?s_rank=10)
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
 
-<a href="https://play.google.com/store/apps/details?id=com.olav.grambix">
-  <img src="https://play-lh.googleusercontent.com/FEw4AK9n5PoLlOGhFWrviJHuBt6yKv_HwTfMOj9QwvMlCYvz_Tc-9nqgI8EhRcq7764nrN9_noBDlw4gJeAdbw=w240-h480-rw" height="79">
-</a>
+  <a href="https://codecanyon.net/item/payload-airtime-data-bundles-gift-cards-and-vtu-full-solution/56026497?s_rank=10">
+    <img src="https://previews.customer.envatousercontent.com/files/560418621/Thumbnail.png" width="220"/>
+  </a>
 
-[![Carbo](https://previews.customer.envatousercontent.com/files/612441931/Thumbnail.png)](https://codecanyon.net/item/carbo-car-rental-booking-management-full-solution/57288398?s_rank=5)
+  <a href="https://play.google.com/store/apps/details?id=com.olav.grambix">
+    <img src="https://play-lh.googleusercontent.com/FEw4AK9n5PoLlOGhFWrviJHuBt6yKv_HwTfMOj9QwvMlCYvz_Tc-9nqgI8EhRcq7764nrN9_noBDlw4gJeAdbw=w240-h480-rw" height="110"/>
+  </a>
 
-<a href="https://play.google.com/store/apps/details?id=com.health.we_cure">
-  <img src="https://play-lh.googleusercontent.com/4hwMYmYU0OxZKjKQyxLCfnk6Vn71CNnhX78pnrhwXMZa7KfQfjSUtl8UhwRYp3glAcU7k-yFdNSEcgO_B2-3=w240-h480-rw" height="79">
-</a>
+  <a href="https://codecanyon.net/item/carbo-car-rental-booking-management-full-solution/57288398?s_rank=5">
+    <img src="https://previews.customer.envatousercontent.com/files/612441931/Thumbnail.png" width="220"/>
+  </a>
 
+  <a href="https://play.google.com/store/apps/details?id=com.health.we_cure">
+    <img src="https://play-lh.googleusercontent.com/4hwMYmYU0OxZKjKQyxLCfnk6Vn71CNnhX78pnrhwXMZa7KfQfjSUtl8UhwRYp3glAcU7k-yFdNSEcgO_B2-3=w240-h480-rw" height="110"/>
+  </a>
+
+</div>
 ---
 
 ## 📈 Current Focus
